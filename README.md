@@ -22,11 +22,3 @@ This is a simple Contactbook program built with PyQt5 and sqlite3 database, to a
  <img src="PVS/ppic.gif">
 </kbd>
 
-
-# Author
-- Github: [@Aminjjjeffrey](https://github.com/Aminjjjeffrey)
-- Twitter: [@Aminjjjeffrey](https://twitter.com/Aminjjjeffrey)
-
-
-
-
